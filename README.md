@@ -1,1 +1,11 @@
-# flashcard_2B_2025
+# Projeto FlashCard
+
+## 🎯 Sobre o projeto
+
+
+## Como usar
+1
+2
+3
+
+## Créditos
